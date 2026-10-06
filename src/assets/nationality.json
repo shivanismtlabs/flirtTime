@@ -1,0 +1,626 @@
+[
+    {
+        "id": "dd8eedee-b727-4060-8a8f-b5b1ce6d708c",
+        "country": "Albania",
+        "flag": "https://flagcdn.com/al.svg",
+        "code": "AL",
+        "name": "Albanian",
+        "phoneCode": "+355"
+    },
+    {
+        "id": "85e7b2e7-771a-4f2a-9ece-83a1f5ca2f5e",
+        "country": "Argentina",
+        "flag": "https://flagcdn.com/ar.svg",
+        "code": "AR",
+        "name": "Argentine",
+        "phoneCode": "+54"
+    },
+    {
+        "id": "4c0416fd-2563-4752-ab4b-2ebbcac698fb",
+        "country": "Armenia",
+        "flag": "https://flagcdn.com/am.svg",
+        "code": "AM",
+        "name": "Armenian",
+        "phoneCode": "+374"
+    },
+    {
+        "id": "afab3260-6768-44af-ba65-115a672bc82d",
+        "country": "Australia",
+        "flag": "https://flagcdn.com/au.svg",
+        "code": "AU",
+        "name": "Australian",
+        "phoneCode": "+61"
+    },
+    {
+        "id": "588c5130-26d6-4331-8ced-11a98b111917",
+        "country": "Austria",
+        "flag": "https://flagcdn.com/at.svg",
+        "code": "AT",
+        "name": "Austrian",
+        "phoneCode": "+43"
+    },
+    {
+        "id": "980c6b0c-fade-4114-a63a-acd5f4bf0c45",
+        "country": "Azerbaijan",
+        "flag": "https://flagcdn.com/az.svg",
+        "code": "AZ",
+        "name": "Azerbaijani",
+        "phoneCode": "+994"
+    },
+    {
+        "id": "cb64f286-f81c-49db-9e8f-a854cd1fb13f",
+        "country": "Belarus",
+        "flag": "https://flagcdn.com/by.svg",
+        "code": "BY",
+        "name": "Belarusian",
+        "phoneCode": "+375"
+    },
+    {
+        "id": "c36f5379-8e5d-46e0-9c59-71e21ce4bc86",
+        "country": "Belgium",
+        "flag": "https://flagcdn.com/be.svg",
+        "code": "BE",
+        "name": "Belgian",
+        "phoneCode": "+32"
+    },
+    {
+        "id": "7eca4709-076a-438e-af0d-fcf81c245795",
+        "country": "Bosnia and Herzegovina",
+        "flag": "https://flagcdn.com/ba.svg",
+        "code": "BA",
+        "name": "Bosnian",
+        "phoneCode": "+387"
+    },
+    {
+        "id": "b6283fb9-f045-41df-b26b-53ec6759d183",
+        "country": "Brazil",
+        "flag": "https://flagcdn.com/br.svg",
+        "code": "BR",
+        "name": "Brazilian",
+        "phoneCode": "+55"
+    },
+    {
+        "id": "f3d22477-fafc-454d-b27c-b6ee8115911d",
+        "country": "Bulgaria",
+        "flag": "https://flagcdn.com/bg.svg",
+        "code": "BG",
+        "name": "Bulgarian",
+        "phoneCode": "+359"
+    },
+    {
+        "id": "d143ac55-1cec-4430-a4f1-81e1a974d8af",
+        "country": "Canada",
+        "flag": "https://flagcdn.com/ca.svg",
+        "code": "CA",
+        "name": "Canadian",
+        "phoneCode": "+1"
+    },
+    {
+        "id": "d3ff5927-09f0-4195-9585-e2d81e2e5bbe",
+        "country": "China",
+        "flag": "https://flagcdn.com/cn.svg",
+        "code": "CN",
+        "name": "Chinese",
+        "phoneCode": "+86"
+    },
+    {
+        "id": "5986ac15-8604-4912-815a-569454d614c7",
+        "country": "Colombia",
+        "flag": "https://flagcdn.com/co.svg",
+        "code": "CO",
+        "name": "Colombian",
+        "phoneCode": "+57"
+    },
+    {
+        "id": "156a81ed-041e-4c51-aece-a2d5063afe14",
+        "country": "Croatia",
+        "flag": "https://flagcdn.com/hr.svg",
+        "code": "HR",
+        "name": "Croatian",
+        "phoneCode": "+385"
+    },
+    {
+        "id": "ad943a4f-aae6-4438-9bee-396c527e7b6f",
+        "country": "Cyprus",
+        "flag": "https://flagcdn.com/cy.svg",
+        "code": "CY",
+        "name": "Cypriot",
+        "phoneCode": "+357"
+    },
+    {
+        "id": "5e454ef8-612f-45cf-a67a-6d026133094d",
+        "country": "Czech Republic",
+        "flag": "https://flagcdn.com/cz.svg",
+        "code": "CZ",
+        "name": "Czech",
+        "phoneCode": "+420"
+    },
+    {
+        "id": "e606a90f-1134-4c53-bd66-f2f3fe8970a6",
+        "country": "Denmark",
+        "flag": "https://flagcdn.com/dk.svg",
+        "code": "DK",
+        "name": "Danish",
+        "phoneCode": "+45"
+    },
+    {
+        "id": "4782a486-dee2-4eb7-b9ea-4da7ef84cb9c",
+        "country": "Finland",
+        "flag": "https://flagcdn.com/fi.svg",
+        "code": "FI",
+        "name": "Finnish",
+        "phoneCode": "+358"
+    },
+    {
+        "id": "f2f8847e-73ff-4900-bf14-5edcad269760",
+        "country": "France",
+        "flag": "https://flagcdn.com/fr.svg",
+        "code": "FR",
+        "name": "French",
+        "phoneCode": "+33"
+    },
+    {
+        "id": "d8f65dc1-288b-422a-a265-9ab98b42cd6c",
+        "country": "Georgia",
+        "flag": "https://flagcdn.com/ge.svg",
+        "code": "GE",
+        "name": "Georgian",
+        "phoneCode": "+995"
+    },
+    {
+        "id": "00678f0c-4754-4814-a34e-0eeac13423f7",
+        "country": "Germany",
+        "flag": "https://flagcdn.com/de.svg",
+        "code": "DE",
+        "name": "German",
+        "phoneCode": "+49"
+    },
+    {
+        "id": "98d25dc8-5bfa-4ff1-89d3-cc762a0ead89",
+        "country": "Greece",
+        "flag": "https://flagcdn.com/gr.svg",
+        "code": "GR",
+        "name": "Greek",
+        "phoneCode": "+30"
+    },
+    {
+        "id": "26ff87e3-2fd2-49ff-9fcd-6fe172c4ba3c",
+        "country": "Hong Kong",
+        "flag": "https://flagcdn.com/hk.svg",
+        "code": "HK",
+        "name": "Hong Konger",
+        "phoneCode": "+852"
+    },
+    {
+        "id": "3481f71c-0dfe-4821-9c98-b76f2b045cf6",
+        "country": "Hungary",
+        "flag": "https://flagcdn.com/hu.svg",
+        "code": "HU",
+        "name": "Hungarian",
+        "phoneCode": "+36"
+    },
+    {
+        "id": "c3e0130c-f466-4b9f-90f0-d11e3cadc33e",
+        "country": "Iceland",
+        "flag": "https://flagcdn.com/is.svg",
+        "code": "IS",
+        "name": "Icelandic",
+        "phoneCode": "+354"
+    },
+    {
+        "id": "253d165f-bdfb-4f30-ae48-3fa16bbad1f1",
+        "country": "Iran",
+        "flag": "https://flagcdn.com/ir.svg",
+        "code": "IR",
+        "name": "Iranian",
+        "phoneCode": "+98"
+    },
+    {
+        "id": "45389631-9674-4d61-a0f2-836b64eab2d4",
+        "country": "Ireland",
+        "flag": "https://flagcdn.com/ie.svg",
+        "code": "IE",
+        "name": "Irish",
+        "phoneCode": "+353"
+    },
+    {
+        "id": "a27b8a7d-a190-4461-a7e5-ca8d83c675db",
+        "country": "Israel",
+        "flag": "https://flagcdn.com/il.svg",
+        "code": "IL",
+        "name": "Israeli",
+        "phoneCode": "+972"
+    },
+    {
+        "id": "73bb50b1-0a06-4a31-b75f-150000b1c821",
+        "country": "Italy",
+        "flag": "https://flagcdn.com/it.svg",
+        "code": "IT",
+        "name": "Italian",
+        "phoneCode": "+39"
+    },
+    {
+        "id": "4c6e0c21-a4af-440a-9010-3106722ef684",
+        "country": "Japan",
+        "flag": "https://flagcdn.com/jp.svg",
+        "code": "JP",
+        "name": "Japanese",
+        "phoneCode": "+81"
+    },
+    {
+        "id": "6001a549-56b3-4b01-8702-8baccf3cb569",
+        "country": "Kazakhstan",
+        "flag": "https://flagcdn.com/kz.svg",
+        "code": "KZ",
+        "name": "Kazakh",
+        "phoneCode": "+7"
+    },
+    {
+        "id": "c26d2c25-6d82-4bb6-b019-56b3e7258e87",
+        "country": "Kyrgyzstan",
+        "flag": "https://flagcdn.com/kg.svg",
+        "code": "KG",
+        "name": "Kyrgyz",
+        "phoneCode": "+996"
+    },
+    {
+        "id": "23967fc3-a300-49a2-b5d9-39a1473b9d8c",
+        "country": "Latvia",
+        "flag": "https://flagcdn.com/lv.svg",
+        "code": "LV",
+        "name": "Latvian",
+        "phoneCode": "+371"
+    },
+    {
+        "id": "298b7bf5-0764-4aa0-a758-4c2522239051",
+        "country": "Lebanon",
+        "flag": "https://flagcdn.com/lb.svg",
+        "code": "LB",
+        "name": "Lebanese",
+        "phoneCode": "+961"
+    },
+    {
+        "id": "b834c2ea-e211-44a3-833b-14ec69ea9b27",
+        "country": "Lithuania",
+        "flag": "https://flagcdn.com/lt.svg",
+        "code": "LT",
+        "name": "Lithuanian",
+        "phoneCode": "+370"
+    },
+    {
+        "id": "b3ab4d46-bb25-4293-9c0d-a381a70b2b9a",
+        "country": "Luxembourg",
+        "flag": "https://flagcdn.com/lu.svg",
+        "code": "LU",
+        "name": "Luxembourgish",
+        "phoneCode": "+352"
+    },
+    {
+        "id": "58e64302-2d15-4fdd-9861-a8012ad84716",
+        "country": "Macao",
+        "flag": "https://flagcdn.com/mo.svg",
+        "code": "MO",
+        "name": "Macanese",
+        "phoneCode": "+853"
+    },
+    {
+        "id": "33c1b7de-ceed-4b74-b654-2a8e1e0cf18e",
+        "country": "Malaysia",
+        "flag": "https://flagcdn.com/my.svg",
+        "code": "MY",
+        "name": "Malaysian",
+        "phoneCode": "+60"
+    },
+    {
+        "id": "a19e7892-0463-4f65-beed-07f22738f16a",
+        "country": "Malta",
+        "flag": "https://flagcdn.com/mt.svg",
+        "code": "MT",
+        "name": "Maltese",
+        "phoneCode": "+356"
+    },
+    {
+        "id": "87cde448-98c3-4567-b28e-c96358b10acb",
+        "country": "Mexico",
+        "flag": "https://flagcdn.com/mx.svg",
+        "code": "MX",
+        "name": "Mexican",
+        "phoneCode": "+52"
+    },
+    {
+        "id": "9b3c8d5e-b9fe-47b5-89e0-82fb8181f3a6",
+        "country": "Moldova",
+        "flag": "https://flagcdn.com/md.svg",
+        "code": "MD",
+        "name": "Moldovan",
+        "phoneCode": "+373"
+    },
+    {
+        "id": "12de2a0f-c1af-4c5d-8499-4823ee9cd65c",
+        "country": "Monaco",
+        "flag": "https://flagcdn.com/mc.svg",
+        "code": "MC",
+        "name": "Monegasque",
+        "phoneCode": "+377"
+    },
+    {
+        "id": "b9b087c5-e47d-45d4-8f3a-97d89084872b",
+        "country": "Mongolia",
+        "flag": "https://flagcdn.com/mn.svg",
+        "code": "MN",
+        "name": "Mongolian",
+        "phoneCode": "+976"
+    },
+    {
+        "id": "17a7b522-5449-4698-9615-62d8b1db8741",
+        "country": "Montenegro",
+        "flag": "https://flagcdn.com/me.svg",
+        "code": "ME",
+        "name": "Montenegrin",
+        "phoneCode": "+382"
+    },
+    {
+        "id": "c085f47f-eb41-4eea-97b2-1bfdeaddba02",
+        "country": "Netherlands",
+        "flag": "https://flagcdn.com/nl.svg",
+        "code": "NL",
+        "name": "Dutch",
+        "phoneCode": "+31"
+    },
+    {
+        "id": "c3df61d6-e895-4d13-8698-a191c535759d",
+        "country": "New Zealand",
+        "flag": "https://flagcdn.com/nz.svg",
+        "code": "NZ",
+        "name": "New Zealander",
+        "phoneCode": "+64"
+    },
+    {
+        "id": "23f099dd-469d-4c85-9e30-c270a1380e6c",
+        "country": "Norway",
+        "flag": "https://flagcdn.com/no.svg",
+        "code": "NO",
+        "name": "Norwegian",
+        "phoneCode": "+47"
+    },
+    {
+        "id": "cd80e6e7-cc19-4bcc-a9f3-96eea105aea8",
+        "country": "Oman",
+        "flag": "https://flagcdn.com/om.svg",
+        "code": "OM",
+        "name": "Omani",
+        "phoneCode": "+968"
+    },
+    {
+        "id": "c96ca37a-a0a8-494c-a26f-fa50381c6d07",
+        "country": "Paraguay",
+        "flag": "https://flagcdn.com/py.svg",
+        "code": "PY",
+        "name": "Paraguayan",
+        "phoneCode": "+595"
+    },
+    {
+        "id": "7ea42f30-9b2c-4653-8d93-e099b0069f4f",
+        "country": "Poland",
+        "flag": "https://flagcdn.com/pl.svg",
+        "code": "PL",
+        "name": "Polish",
+        "phoneCode": "+48"
+    },
+    {
+        "id": "adeee671-c7ca-4115-8334-1a752b96d520",
+        "country": "Portugal",
+        "flag": "https://flagcdn.com/pt.svg",
+        "code": "PT",
+        "name": "Portuguese",
+        "phoneCode": "+351"
+    },
+    {
+        "id": "600bcffb-87f1-4ee1-8ece-9847bff6409f",
+        "country": "Qatar",
+        "flag": "https://flagcdn.com/qa.svg",
+        "code": "QA",
+        "name": "Qatari",
+        "phoneCode": "+974"
+    },
+    {
+        "id": "0116ee41-749c-4537-95c6-dc0a7f089f93",
+        "country": "Romania",
+        "flag": "https://flagcdn.com/ro.svg",
+        "code": "RO",
+        "name": "Romanian",
+        "phoneCode": "+40"
+    },
+    {
+        "id": "ec5bc08a-1429-495e-82e0-edca10025b20",
+        "country": "Russia",
+        "flag": "https://flagcdn.com/ru.svg",
+        "code": "RU",
+        "name": "Russian",
+        "phoneCode": "+7"
+    },
+    {
+        "id": "5f1b081a-332a-4060-b118-2564a85ba7ba",
+        "country": "Saudi Arabia",
+        "flag": "https://flagcdn.com/sa.svg",
+        "code": "SA",
+        "name": "Saudi",
+        "phoneCode": "+966"
+    },
+    {
+        "id": "fc6f4b34-23d7-48ff-b5db-3eaa469857bb",
+        "country": "Serbia",
+        "flag": "https://flagcdn.com/rs.svg",
+        "code": "RS",
+        "name": "Serbian",
+        "phoneCode": "+381"
+    },
+    {
+        "id": "36fd966d-c2fd-4c89-b196-f8d6c9fcfd44",
+        "country": "Singapore",
+        "flag": "https://flagcdn.com/sg.svg",
+        "code": "SG",
+        "name": "Singaporean",
+        "phoneCode": "+65"
+    },
+    {
+        "id": "772d51fc-de3e-44dd-81b3-caddc9d4041e",
+        "country": "Slovakia",
+        "flag": "https://flagcdn.com/sk.svg",
+        "code": "SK",
+        "name": "Slovak",
+        "phoneCode": "+421"
+    },
+    {
+        "id": "54f11227-1bd9-4d5e-ac7c-1ce755a0bcec",
+        "country": "Slovenia",
+        "flag": "https://flagcdn.com/si.svg",
+        "code": "SI",
+        "name": "Slovenian",
+        "phoneCode": "+386"
+    },
+    {
+        "id": "66c36748-43b0-4198-afe1-8eaf07ccd397",
+        "country": "South Africa",
+        "flag": "https://flagcdn.com/za.svg",
+        "code": "ZA",
+        "name": "South African",
+        "phoneCode": "+27"
+    },
+    {
+        "id": "15df0b34-bdfe-4912-b365-a5b48c0bc9d0",
+        "country": "South Korea",
+        "flag": "https://flagcdn.com/kr.svg",
+        "code": "KR",
+        "name": "South Korean",
+        "phoneCode": "+82"
+    },
+    {
+        "id": "a6942f0d-3075-4790-bc4a-c2cc273c35ac",
+        "country": "Spain",
+        "flag": "https://flagcdn.com/es.svg",
+        "code": "ES",
+        "name": "Spanish",
+        "phoneCode": "+34"
+    },
+    {
+        "id": "597f7d51-f3ef-4bea-a792-92f1d6671457",
+        "country": "Sweden",
+        "flag": "https://flagcdn.com/se.svg",
+        "code": "SE",
+        "name": "Swedish",
+        "phoneCode": "+46"
+    },
+    {
+        "id": "57b0ecb6-fe21-47ca-86b4-cf0ec5d4aa8e",
+        "country": "Switzerland",
+        "flag": "https://flagcdn.com/ch.svg",
+        "code": "CH",
+        "name": "Swiss",
+        "phoneCode": "+41"
+    },
+    {
+        "id": "c9aaa9ca-4465-47de-847d-a72a4282788c",
+        "country": "Syria",
+        "flag": "https://flagcdn.com/sy.svg",
+        "code": "SY",
+        "name": "Syrian",
+        "phoneCode": "+963"
+    },
+    {
+        "id": "0cbe5242-4a8b-4e33-b6e5-da0611699afa",
+        "country": "Taiwan",
+        "flag": "https://flagcdn.com/tw.svg",
+        "code": "TW",
+        "name": "Taiwanese",
+        "phoneCode": "+886"
+    },
+    {
+        "id": "f533950e-e17a-46c0-82ba-f35e3e4f0e1a",
+        "country": "Tajikistan",
+        "flag": "https://flagcdn.com/tj.svg",
+        "code": "TJ",
+        "name": "Tajik",
+        "phoneCode": "+992"
+    },
+    {
+        "id": "8c66d7d4-d600-4b25-9788-c5864a3898fd",
+        "country": "Turkey",
+        "flag": "https://flagcdn.com/tr.svg",
+        "code": "TR",
+        "name": "Turkish",
+        "phoneCode": "+90"
+    },
+    {
+        "id": "b99a7572-b7fa-4bf5-b1d1-666ae8d822a0",
+        "country": "Turkmenistan",
+        "flag": "https://flagcdn.com/tm.svg",
+        "code": "TM",
+        "name": "Turkmen",
+        "phoneCode": "+993"
+    },
+    {
+        "id": "331c09dc-2acb-4451-9723-fef2ca3c5f99",
+        "country": "Ukraine",
+        "flag": "https://flagcdn.com/ua.svg",
+        "code": "UA",
+        "name": "Ukrainian",
+        "phoneCode": "+380"
+    },
+    {
+        "id": "697ec4ef-e237-4f59-ba88-2ff5d286e190",
+        "country": "United Arab Emirates",
+        "flag": "https://flagcdn.com/ae.svg",
+        "code": "AE",
+        "name": "Emirati",
+        "phoneCode": "+971"
+    },
+    {
+        "id": "a6e858ec-a043-46a6-9a31-4712ad9f55c5",
+        "country": "United Kingdom",
+        "flag": "https://flagcdn.com/gb.svg",
+        "code": "GB",
+        "name": "British",
+        "phoneCode": "+44"
+    },
+    {
+        "id": "4c17b29f-670e-4fc5-af18-40e283b514a1",
+        "country": "United States",
+        "flag": "https://flagcdn.com/us.svg",
+        "code": "US",
+        "name": "American",
+        "phoneCode": "+1"
+    },
+    {
+        "id": "b1809327-a2bc-4f88-bf9e-b5366489a9cf",
+        "country": "Uruguay",
+        "flag": "https://flagcdn.com/uy.svg",
+        "code": "UY",
+        "name": "Uruguayan",
+        "phoneCode": "+598"
+    },
+    {
+        "id": "f4751a0d-6783-470c-af88-449bc7727de3",
+        "country": "Uzbekistan",
+        "flag": "https://flagcdn.com/uz.svg",
+        "code": "UZ",
+        "name": "Uzbek",
+        "phoneCode": "+998"
+    },
+    {
+        "id": "328ae139-63e7-4342-9c38-96e4454d2f86",
+        "country": "Venezuela",
+        "flag": "https://flagcdn.com/ve.svg",
+        "code": "VE",
+        "name": "Venezuelan",
+        "phoneCode": "+58"
+    },
+    {
+        "id": "a7585076-6f6b-453a-ac05-b2ffa14c4796",
+        "country": "Vietnam",
+        "flag": "https://flagcdn.com/vn.svg",
+        "code": "VN",
+        "name": "Vietnamese",
+        "phoneCode": "+84"
+    }
+]

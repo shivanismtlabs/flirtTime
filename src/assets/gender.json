@@ -1,0 +1,66 @@
+{
+  "en": [
+    { "label": "Male", "value": "MALE" },
+    { "label": "Female", "value": "FEMALE" }
+  ],
+  "ru": [
+    { "label": "Мужчина", "value": "MALE" },
+    { "label": "Женщина", "value": "FEMALE" }
+  ],
+  "uk": [
+    { "label": "Чоловік", "value": "MALE" },
+    { "label": "Жінка", "value": "FEMALE" }
+  ],
+  "pl": [
+    { "label": "Mężczyzna", "value": "MALE" },
+    { "label": "Kobieta", "value": "FEMALE" }
+  ],
+  "zh": [
+    { "label": "男", "value": "MALE" },
+    { "label": "女", "value": "FEMALE" }
+  ],
+  "ja": [
+    { "label": "男性", "value": "MALE" },
+    { "label": "女性", "value": "FEMALE" }
+  ],
+  "tr": [
+    { "label": "Erkek", "value": "MALE" },
+    { "label": "Kadın", "value": "FEMALE" }
+  ],
+  "es": [
+    { "label": "Hombre", "value": "MALE" },
+    { "label": "Mujer", "value": "FEMALE" }
+  ],
+  "de": [
+    { "label": "Männlich", "value": "MALE" },
+    { "label": "Weiblich", "value": "FEMALE" }
+  ],
+  "ko": [
+    { "label": "남성", "value": "MALE" },
+    { "label": "여성", "value": "FEMALE" }
+  ],
+  "pt": [
+    { "label": "Masculino", "value": "MALE" },
+    { "label": "Feminino", "value": "FEMALE" }
+  ],
+  "it": [
+    { "label": "Maschio", "value": "MALE" },
+    { "label": "Femmina", "value": "FEMALE" }
+  ],
+  "fr": [
+    { "label": "Homme", "value": "MALE" },
+    { "label": "Femme", "value": "FEMALE" }
+  ],
+  "ar": [
+    { "label": "ذكر", "value": "MALE" },
+    { "label": "أنثى", "value": "FEMALE" }
+  ],
+  "uz": [
+    { "label": "Erkak", "value": "MALE" },
+    { "label": "Ayol", "value": "FEMALE" }
+  ],
+  "kk": [
+    { "label": "Ер адам", "value": "MALE" },
+    { "label": "Әйел", "value": "FEMALE" }
+  ]
+}
